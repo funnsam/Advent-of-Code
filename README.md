@@ -1,2 +1,2 @@
 # Advent-of-Code
-I put stuff
+[duck](https://funnsam.github.io/projects/aoc/)
